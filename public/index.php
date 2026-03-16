@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'Accueil - Aéroport Minecraft';
-require_once 'includes/header.php';
+require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <div class="hero">
@@ -112,4 +112,4 @@ require_once 'includes/header.php';
 </div>
 <?php endif; ?>
 
-<?php require_once 'includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php';
