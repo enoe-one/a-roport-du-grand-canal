@@ -3,8 +3,8 @@
     <footer class="main-footer">
         <div class="footer-container">
             <div class="footer-section">
-                <h3>Aéroport Minecraft</h3>
-                <p>Votre compagnie aérienne de confiance dans le monde de Minecraft</p>
+                <h3>Aéronoé</h3>
+                <p>Votre compagnie aérienne de confiance dans le monde ,Compagnie de l'Empire de Blocaria</p>
             </div>
             <div class="footer-section">
                 <h4>Navigation</h4>
@@ -17,12 +17,12 @@
             </div>
             <div class="footer-section">
                 <h4>Contact</h4>
-                <p>Discord: Votre Serveur Discord</p>
-                <p>Serveur MC: votre.serveur.mc</p>
+                <p>Discord: mp Enoe_one</p>
+                <p>Serveur MC: julesbb.aternos.me</p>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; <?= date('Y') ?> Aéroport Minecraft. Tous droits réservés.</p>
+            <p>&copy; <?= date('Y') ?> Aéronoé. Tous droits réservés.</p>
         </div>
     </footer>
     

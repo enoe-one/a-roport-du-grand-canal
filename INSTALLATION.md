@@ -1,7 +1,10 @@
 # 📦 Guide d'Installation - Aéroport Minecraft
 
+<<<<<<< HEAD
+=======
 Ce guide vous accompagne pas à pas dans l'installation et le déploiement de votre site d'aéroport Minecraft.
 
+>>>>>>> fd4dfcf (Premier commit)
 ## 🎯 Table des matières
 1. [Installation Locale](#installation-locale)
 2. [Déploiement sur Railway](#déploiement-sur-railway)
